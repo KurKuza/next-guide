@@ -405,7 +405,35 @@
     "prop-types" "^15.8.1"
     "react-is" "^18.2.0"
 
-"@mui/material@^5.9.3":
+"@mui/joy@^5.0.0-alpha.39":
+  "integrity" "sha512-F/cjEwvH9UFxIRJ30P8fuGOEDtgDBJCd++yTq8JYXARGCSlUMtbpijkPvnYFz69j3BtHCDhSaz3JA0cxcwVjaQ=="
+  "resolved" "https://registry.npmjs.org/@mui/joy/-/joy-5.0.0-alpha.39.tgz"
+  "version" "5.0.0-alpha.39"
+  dependencies:
+    "@babel/runtime" "^7.17.2"
+    "@mui/base" "5.0.0-alpha.92"
+    "@mui/system" "^5.9.3"
+    "@mui/types" "^7.1.5"
+    "@mui/utils" "^5.9.3"
+    "clsx" "^1.2.1"
+    "csstype" "^3.1.0"
+    "prop-types" "^15.8.1"
+    "react-is" "^18.2.0"
+
+"@mui/lab@^5.0.0-alpha.93":
+  "integrity" "sha512-PGrI6tGwKGpLEv4sG7Jkhh/gqk5SE3KRCY8SKmC7JIOUpHEdPKIPH7kId/UZUd8+NOkr8YsljXmozpWv9PLsBQ=="
+  "resolved" "https://registry.npmjs.org/@mui/lab/-/lab-5.0.0-alpha.93.tgz"
+  "version" "5.0.0-alpha.93"
+  dependencies:
+    "@babel/runtime" "^7.17.2"
+    "@mui/base" "5.0.0-alpha.92"
+    "@mui/system" "^5.9.3"
+    "@mui/utils" "^5.9.3"
+    "clsx" "^1.2.1"
+    "prop-types" "^15.8.1"
+    "react-is" "^18.2.0"
+
+"@mui/material@^5.0.0", "@mui/material@^5.9.3":
   "integrity" "sha512-idDJajnfnDr+2pI6h2tzWtWoZJmVHNk6aSjISirMuVOGy0ugWpsCE+KW4++GS7aTCujXm9+cl5bWAyXvGjiPIQ=="
   "resolved" "https://registry.npmjs.org/@mui/material/-/material-5.9.3.tgz"
   "version" "5.9.3"
@@ -483,9 +511,9 @@
   dependencies:
     "glob" "7.1.7"
 
-"@next/swc-darwin-x64@12.2.3":
-  "integrity" "sha512-lve+lnTiddXbcT3Lh2ujOFywQSEycTYQhuf6j6JrPu9oLQGS01kjIqqSj3/KMmSoppEnXo3BxkgYu+g2+ecHkA=="
-  "resolved" "https://registry.npmjs.org/@next/swc-darwin-x64/-/swc-darwin-x64-12.2.3.tgz"
+"@next/swc-win32-x64-msvc@12.2.3":
+  "integrity" "sha512-huSNb98KSG77Kl96CoPgCwom28aamuUsPpRmn/4s9L0RNbbHVSkp9E6HA4yOAykZCEuWcdNsRLbVVuAbt8rtIw=="
+  "resolved" "https://registry.npmjs.org/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-12.2.3.tgz"
   "version" "12.2.3"
 
 "@nodelib/fs.scandir@2.1.5":
